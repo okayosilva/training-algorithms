@@ -1,4 +1,4 @@
-// function minMaxSum(arr) {
+// function miniMaxSum(arr) {
 //   let minValueInArray = arr[0];
 //   let maxValueInArray = arr[0];
 
@@ -26,12 +26,12 @@
 //   console.log(minValuePossible, maxValuePossible);
 // }
 
-// minMaxSum([1, 2, 3, 4, 5]);
+// miniMaxSum([1, 2, 3, 4, 5]);
 
 
 // Uma maneira mais eficiente de resolver esse problema é ordenar o array e somar os quatro primeiros e os quatro últimos elementos.
 
-function minMaxSum(arr) {
+function miniMaxSum(arr) {
   //Aqui, o método sort() é usado para ordenar o array em ordem crescente.  
   arr.sort((a, b) => a - b);
   let minSum = 0;
@@ -46,4 +46,4 @@ function minMaxSum(arr) {
   console.log(minSum, maxSum);
 }
 
-minMaxSum([5, 4, 3, 2, 1]);
+miniMaxSum([5, 4, 3, 2, 1]);
