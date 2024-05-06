@@ -11,3 +11,4 @@ Criei este repositório com o objetivo de aprimorar minhas habilidades na resolu
 | Plus Minus | ✅ Completo |
 | Mini-Max Sum | ✅ Completo |
 | Time Conversion | ✅ Completo |
+| Breaking the Records | ✅ Completo |
