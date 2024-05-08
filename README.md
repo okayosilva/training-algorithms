@@ -6,9 +6,10 @@ Criei este repositório com o objetivo de aprimorar minhas habilidades na resolu
 
 ## Algoritmos presentes neste repositório
 
-| Algoritmos | Status |
-| ---------- | ------------ |
-| Plus Minus | ✅ Completo |
-| Mini-Max Sum | ✅ Completo |
-| Time Conversion | ✅ Completo |
+| Algoritmos           | Status      |
+| -------------------- | ----------- |
+| Plus Minus           | ✅ Completo |
+| Mini-Max Sum         | ✅ Completo |
+| Time Conversion      | ✅ Completo |
 | Breaking the Records | ✅ Completo |
+| Divisible Sum Pairs  | ✅ Completo |
