@@ -13,3 +13,4 @@ Criei este repositório com o objetivo de aprimorar minhas habilidades na resolu
 | Time Conversion      | ✅ Completo |
 | Breaking the Records | ✅ Completo |
 | Divisible Sum Pairs  | ✅ Completo |
+| Sparse Array         | ✅ Completo |
