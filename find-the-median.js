@@ -1,14 +1,16 @@
-function findTheMedian(arr) {
-  const sortedArray = arr.sort((a, b) => a - b);
-  const middleIndex = Math.floor(sortedArray.length / 2);
+function findMedian(arr) {
+  if (arr.length === 0) {
+    return null;
+  }
 
-  const median =
-    sortedArray.length % 2 === 0
-      ? (sortedArray[middleIndex - 1] + sortedArray[middleIndex]) / 2
-      : sortedArray[middleIndex];
-
-  const centralElement = sortedArray.indexOf(median);
-  return centralElement;
+  arr.sort((a, b) => a - b);
+  const middleIndex = Math.floor(arr.length / 2);
+  
+  if (arr.length % 2 === 1) {
+    return arr[middleIndex];
+  } else {
+    return (arr[middleIndex - 1] + arr[middleIndex]) / 2;
+  }
 }
 
-console.log(findTheMedian([0, 1, 2, 4, 6, 5, 3]));
+console.log(findMedian([0, 1, 2, 4, 6, 5, 3]));
