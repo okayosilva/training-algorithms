@@ -1,7 +1,9 @@
-Status: Em andamento  🚧
+Status: Em andamento 🚧
 
 ## Training Algorithms
+
 Criei este repositório com o objetivo de aprimorar minhas habilidades na resolução de algoritmos. A linguagem de programação escolhida para resolver os algoritmos neste repositório foi o JavaScript.
+
 <hr/>
 
 ## Algoritmos presentes neste repositório
@@ -14,3 +16,4 @@ Criei este repositório com o objetivo de aprimorar minhas habilidades na resolu
 | Breaking the Records | ✅ Completo |
 | Divisible Sum Pairs  | ✅ Completo |
 | Sparse Array         | ✅ Completo |
+| Camel Case 4         | ✅ Completo |
