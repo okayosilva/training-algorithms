@@ -20,3 +20,4 @@ Criei este repositório com o objetivo de aprimorar minhas habilidades na resolu
 | FizzBuzz             | ✅ Completo |
 | Find The Median      | ✅ Completo |
 | Lonely Integer       | ✅ Completo |
+| Grading Students     | ✅ Completo |
