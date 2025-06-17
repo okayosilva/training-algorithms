@@ -21,3 +21,6 @@ Criei este repositório com o objetivo de aprimorar minhas habilidades na resolu
 | Find The Median      | ✅ Completo |
 | Lonely Integer       | ✅ Completo |
 | Grading Students     | ✅ Completo |
+| Reverse Words        | ✅ Completo |
+| Binary Search        | ✅ Completo |
+
